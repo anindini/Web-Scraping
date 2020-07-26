@@ -1,0 +1,14 @@
+,0
+username,MarketLamb
+author_name,Jacob Sappington
+content,"Hi gang,
+I’m fed up with Click Funnels and custom creating all my funnels on Webflow.
+So far I’ve run into one issue which I have figured out a solution.
+When I would duplicate my template page and make changes for the client version it would make changes on the template too (same classes)
+I found someone in this forum who had a solution, duplicating each class and re-naming it.
+This fixed my problem, and now I’m trying to think ahead of what other problems I could encounter.
+So far I’ve thought of remembering to change form names… Can anyone else think of issues I may see, so that I can hopefully avoid them 
+Thanks,
+Jacob"
+date,"Oct 30, 2019 2:19 am"
+likes,4
